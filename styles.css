@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise');
+
+body{
+  background-color: ;
+}
+
+.nav {
+  text-align: center;
+  background-color: gold;
+  padding: 10px;
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.nav > li {
+  display:inline-block;
+  padding-right: 50px;
+  font-size: 20px;
+  font-family: 'Barrio', cursive;
+}
+
+.nav > li > a{
+  text-decoration: none;
+}
+
+a:hover{
+  color:PaleVioletRed;
+}
+
+div {
+  text-align: center;
+}
+
+h2 {
+  color: PaleVioletRed;
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+
+img{
+width: 75%;
+height:600px;
+border: 8px solid goldenrod;
+}
